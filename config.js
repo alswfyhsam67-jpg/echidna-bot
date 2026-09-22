@@ -9,9 +9,9 @@ const CONFIG = {
   kingdom: "مملكة أوريليا",
   prefix: ".",
 
-  developer: "967734232923",
+  developer: "967715338589",
 
-  botPhone: "967715338589",
+  botPhone: "967734232923",
 
   authDir:
     process.env.AUTH_DIR ||
