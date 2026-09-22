@@ -47,6 +47,13 @@ const CONFIG = {
     { trigger: "كيفك", reply: "بخير الحمدلله، وأنت؟ 🫖" },
   ],
 
+  // -------------------------
+  // أمر التست (للمطور والنخبة)
+  // -------------------------
+  testMessage: "✅ البوت شغّال\n\n🫖 إيكيدنا\n👑 مملكة أوريليا\n🟢 متصل الآن",
+
+  testImageUrl: "https://raw.githubusercontent.com/alswfyhsam67-jpg/echidna-bot/main/69f1acebdcebf8db84172c380faa5c40.jpg",
+
   header: `⟦ 🫖 𝑬𝒄𝒉𝒊𝒅𝒏𝒂 ⟧
 『 بوت إيكيدنا 』
 ╰─━━━━━━⊱♕⊰━━━━━━─╯`,
